@@ -9,16 +9,21 @@
 </head>
 <body>
     <div id="unica">
+        <hr>
         <h3>Calculando IMC</h3>
-        <label>Peso:</label>
-        <p><input id="peso02" type="number"></p>
-        <label>Altura:</label>
-        <p><input id="altura02" type="number"></p>
-        <p><button id="calcular" onclick="imc()" >Calcular</button></p>
+        <hr>
+        <label for="peso">Peso:</label>
+        <p><input id="peso" type="number"></p>
+        <hr>
+        <label for="altura">Altura:</label>
+        <p><input id="altura" type="number"></p>
+        <hr>
+        <p><input type="button" value="Calcular" onclick="imc()"></p>
 
-
+        <hr>
         <div id="res">
-           
+           <p>Resultado:</p>
+           <hr>
         </div>
 
     </div>

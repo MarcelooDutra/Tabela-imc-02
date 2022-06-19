@@ -17,10 +17,11 @@ div#unica{
 
 div#res{
     background-color: rgb(255, 255, 255);
+    color: black;
     width:150px;
     margin: 23px;
     padding: 30px;
-    height: 20px;
+    height: 60px;
     position: absolute;
     top: 450px
 }
