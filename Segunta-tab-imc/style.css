@@ -1,0 +1,31 @@
+body{
+    margin: 100px;
+    padding: 0;
+    background: linear-gradient(-45deg,rgb(2, 16, 136), rgb(8, 47, 177), rgb(0, 119, 128), rgb(7, 18, 167) , rgb(11, 22, 167));
+}
+
+div#unica{
+    background-color: black;
+    color: rgb(253, 253, 253);
+    height: 450px;
+    width: 250px;
+   margin: auto;
+   padding: 40px;
+   border-radius: 40px 40px 40px;
+   text-align: center;
+}
+
+div#res{
+    background-color: rgb(255, 255, 255);
+    width:150px;
+    margin: 23px;
+    padding: 30px;
+    height: 20px;
+    position: absolute;
+    top: 450px
+}
+
+input{
+    height: 30px;
+    width: 70%;
+}
