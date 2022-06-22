@@ -4,7 +4,7 @@ body{
     background: linear-gradient(-45deg,rgb(2, 16, 136), rgb(8, 47, 177), rgb(0, 119, 128), rgb(7, 18, 167) , rgb(11, 22, 167));
 }
 
-div#unica{
+div{
     background-color: black;
     color: rgb(253, 253, 253);
     height: 450px;
